@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @angelikagraf
-- 👀 I’m interested in websites
-- 🌱 I’m currently learning html
+- 👀 I’m a student in electrical engineering
+- 🌱 I’m currently learning pandapower
 
 <!---
 angelikagraf/angelikagraf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
